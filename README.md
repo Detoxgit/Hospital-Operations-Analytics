@@ -31,7 +31,7 @@ Provides a high-level view of hospital performance through:
 - Monthly Revenue & Admission Trends
 - Department-wise Revenue Analysis
 
-![Executive Dashboard](Images/Executive_Dashboard.png)
+![Executive Dashboard](Images/Executive%20Dashboard.png)
 
 ---
 
@@ -46,9 +46,9 @@ Provides insights into patient demographics and behavior:
 - Average Bill by Age Group
 - Payment Method Analysis
 
-![Patient Dashboard 1](Images/Patient_Dashboard_1.png)
+![Patient Dashboard 1](Images/Patient%20Dashboard%201.png)
 
-![Patient Dashboard 2](Images/Patient_Dashboard_2.png)
+![Patient Dashboard 2](Images/Patient%20Dashboard%202.png)
 
 
 ## 💡 Skills Demonstrated
