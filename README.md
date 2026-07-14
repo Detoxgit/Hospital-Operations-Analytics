@@ -46,9 +46,9 @@ Provides insights into patient demographics and behavior:
 - Average Bill by Age Group
 - Payment Method Analysis
 
-![Patient Dashboard 1](Images/Patient%20Dashboard%201.png)
+![Patient Dashboard 1](Images/Patient%20DashBoard%201.png)
 
-![Patient Dashboard 2](Images/Patient%20Dashboard%202.png)
+![Patient Dashboard 2](Images/Patient%20DashBoard%202.png)
 
 
 ## 💡 Skills Demonstrated
