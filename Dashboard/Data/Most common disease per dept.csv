@@ -1,0 +1,7 @@
+department_name,disease_name,cases,rn
+Emergency,"Urinary Tract Infection",466,1
+ICU,"Viral Fever",227,1
+"Internal Medicine","Chronic Kidney Disease",416,1
+Orthopedics,"Chronic Obstructive Pulmonary Disease",322,1
+Pediatrics,Hypertension,438,1
+Surgery,Stroke,524,1
